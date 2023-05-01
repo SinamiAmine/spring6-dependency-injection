@@ -37,11 +37,11 @@ Spring 6
 
 * Introduction to H2 DataBase :
     - In Application.Properties Configure this paramas
-      # spring.h2.console.enabled=true
-      # get url dataBase from the console of terminal like this one
-      # Go to http://localhost:8080/h2-console/login.jsp
-      # Paste Url
-      # Connect (y)
+      #spring.h2.console.enabled=true
+      #get url dataBase from the console of terminal like this one
+      #Go to http://localhost:8080/h2-console/login.jsp
+      #Paste Url
+      #Connect (y)
 * Spring MVC :
     - MVC is a common design pattern for GUI and web applications
   # Model : Simple POJO with collection of properties which may or may not be used by the
